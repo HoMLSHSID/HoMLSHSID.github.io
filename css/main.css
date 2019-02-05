@@ -1,10 +1,10 @@
 body {
     margin: 60px auto;
-    background-color: #F0F8FF;
+    background-color: #88bbd6;
     width: 70%;
 }
 title {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Nanum Gothic', 'Sans-Serif';
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -28,6 +28,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
+    font-family:'Nanum Gothic', 'Sans-Serif';
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
