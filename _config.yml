@@ -1,3 +1,4 @@
 name: Hands on Machine Learning
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+remote_theme: HoMLSHSID/project-pages
